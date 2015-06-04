@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/jar">
+        <file>apktool-2.0.0.jar</file>
+        <file>apktool-1.5.2.jar</file>
+    </qresource>
+</RCC>
